@@ -4,7 +4,7 @@ Basic monte carlo examples in Python based on https://github.com/towardsai/tutor
 ## 1) Coin Flip
 Show that the probability of getting heads or tails in a fair coin goes to 0.5 over a large sample
 
-## 2) Estiamte the value of Pi using Circle and Square
+## 2) Estimate the value of Pi using Circle and Square
 Estimate the value of Pi using the circle and square method
 
 ## 3) Monty Hall problem
